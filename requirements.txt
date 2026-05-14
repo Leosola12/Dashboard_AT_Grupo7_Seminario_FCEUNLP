@@ -1,0 +1,7 @@
+# Dependencias detectadas desde dashboard.py
+yfinance
+pandas
+streamlit
+numpy
+ta
+matplotlib
